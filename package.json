@@ -1,0 +1,26 @@
+{
+  "name": "current-function",
+  "version": "1.0.0",
+  "description": "Gets the name of the current calling function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bearjaws/current-function.git"
+  },
+  "keywords": [
+    "function",
+    "name",
+    "current",
+    "function",
+    "name"
+  ],
+  "author": "bearjaws",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bearjaws/current-function/issues"
+  },
+  "homepage": "https://github.com/bearjaws/current-function#readme"
+}
